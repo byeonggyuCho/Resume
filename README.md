@@ -1,7 +1,7 @@
 # About Me
 
 - 이름: 조병규
-- 나이: 30살
+- 나이: 30살(1991년생)
 - 학력: 대졸 (한국교통대학교, 기계공학과)
 - 거주지: 서울
 - e-mail: byeonggyu303@gmail.com
@@ -11,11 +11,16 @@
     - etc: git, jenkins
 
 
+    사용자에게 직관적인 서비스를 협업하는 개발자에게는 가독성이 좋은 코드를  제공하고 싶은 개발자 조병규입니다.  
+    최근에 컴포넌트 설계와 Typescript를 이용한 정적타입을 이용핸 개발에 관심 있습니다.
+
+
 
 ## Career
-1. [인스웨이브 시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
-- 2018.03~2020.05
-- 소속부서: 솔루션사업팀
+1. [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
+- 소개: 웹표준 UI솔루션 기업
+- 기간: 2018.03~2020.05
+- 부서: 솔루션사업팀
 - 역할 
     1. 마이그레이션 솔루션 기능개선 및 관리([w-craft](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/craft.xml&product=ws&seq=19))
     2. 워크플로우 솔루션( [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56)) 기능개선 및 관리.
@@ -30,7 +35,7 @@
 
 ### 1.광주은행 모바일 웹뱅킹
 - 기간: 2018.06~2018.12
-- 소개:
+- 소개: 비대면 모바일 웹뱅킹 구축.
 - 뉴스: [광주은행 모바일웹뱅킹 구축](https://www.zdnet.co.kr/view/?no=20181107210051)
 - 참고: [광주은행 모바일웹](https://m.kjbank.com/mbdt/)
 - 사용기술: Websquare, javascript, Spring
@@ -62,7 +67,7 @@
     - 워크플로우 솔루션(xTouch) 커스터마이징 및 기능개선.
     - 프로세스 이어가기
     - 화면 뒤로가기
-    
+
 
 
 
@@ -70,11 +75,16 @@
 
 1. 미세먼지 조회.
 - 소개: 실시간 미세먼지 조회.
+- 참고: [repository](https://github.com/CaterJo/misemise)
 - 사용기술: React, express, gulp
+- 작업내용
+    - 공공 API연동
+    - geoJSON을 네이버 map에 레이어로 덫씌우는 작업.
+    - 크롤링을 이용해 geoJSON파일이 업데이트됐을때 소스파일을 치환함.
 
 2. Memo
 - 소개: TypeScript와 Redux연동을 연습하기 위한 간단한 메모앱.
-- [참고](https://github.com/CaterJo/memoApp)
+- 참고: [repository](https://github.com/CaterJo/memoApp)
 - 사용기술: React(+Redux), Typescript
 
 
