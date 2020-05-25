@@ -22,7 +22,6 @@
     2. 신규 구축 프로젝트 투입.  
       
 
-  
 
 
 
@@ -81,5 +80,8 @@
 
 3. Blog
 - 소개: 리액트를 이용한 블로그.
+- 참고: [repository](https://github.com/CaterJo/blog-front)
 - 기간: 2020.01~2020.05
 - 사용기술: React, Typescript, express, mongoDB
+- 작업내용:
+    - [리액트를 다루는기술](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757)에 소개된 소스코드를 기반으로 기능추가및 수정
