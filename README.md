@@ -1,8 +1,7 @@
 # About Me
-
 - 이름: 조병규
 - 나이: 30살(1991년생)
-- 학력: 대졸 (한국교통대학교, 기계공학과)
+- 학력: 대졸 (한국교통대학교, 기계공학)
 - 거주지: 서울
 - e-mail: byeonggyu303@gmail.com
 - Skill
@@ -12,7 +11,7 @@
 
 
     사용자에게 직관적인 서비스를 협업하는 개발자에게는 가독성이 좋은 코드를  제공하고 싶은 개발자 조병규입니다.  
-    최근에 컴포넌트 설계와 Typescript를 이용한 정적타입을 이용핸 개발에 관심 있습니다.
+    최근에 컴포넌트 설계와 Typescript를 이용한 정적타입에 관심 있습니다.
 
 
 
@@ -23,7 +22,7 @@
 - 부서: 솔루션사업팀
 - 역할 
     1. 마이그레이션 솔루션 기능개선 및 관리([w-craft](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/craft.xml&product=ws&seq=19))
-    2. 워크플로우 솔루션( [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56)) 기능개선 및 관리.
+    2. 워크플로우 솔루션 기능개선 및 관리.( [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56))
     2. 신규 구축 프로젝트 투입.  
       
 
