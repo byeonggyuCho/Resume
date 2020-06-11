@@ -30,14 +30,14 @@
 
 
 
-
+<div class=pull-left>
+Write you first Column Text right here followed by closing Markdown Code
+</div>
+<div class=pull-right>
+Now write the Text of your 2nd Column, keep in mind that some Markdown Styling won't Work
+</div>
 
 ## Projects
-
-  1 | 2   |   3
----|:---|---:
-<h3>`인스웨이브 시스템즈`</h3><br/> 2018.03~2020.05 | <h3>광주은행 모바일 웹뱅킹</h3> 2018.06~2018.12<h4>사용기술</h4> Websquare, javascript, Spring  <h4>소개</h4> 비대면 모바일 웹뱅킹 구축 <h4>작업내용</h4> <ul> <li>금융상품 3종 (KJB 주거래통장, Y통장, 멀티통화외화예금)</li></ul>| `static`| 
-`relative` | 요소 **자신**을 기준으로 배치 |
 
 
 ### 1.광주은행 모바일 웹뱅킹
