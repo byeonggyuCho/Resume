@@ -1,6 +1,8 @@
 # About Me
 
-    사용자에게 직관적인 서비스를 협업하는 개발자에게는 가독성이 좋은 코드를 제공하고 싶은 개발자 조병규입니다.  
+    안녕하세요 프론트엔드 개발자 조병규입니다.
+    사용자에게 직관적인 서비스를 협업하는 동료에게 가독성이 좋은 코드를 하는것을 핵심가치로 생각합니다.  
+    웹 서비스를 통해 일상의 편리함을 제공하는 일에 관심이 있습니다.  
     최근에 컴포넌트 설계와 Typescript를 이용한 정적타입에 관심 있습니다.
 
 - 이름: 조병규
@@ -38,6 +40,7 @@
 - 뉴스: [광주은행 모바일웹뱅킹 구축](https://www.zdnet.co.kr/view/?no=20181107210051)
 - 참고: [광주은행 모바일웹](https://m.kjbank.com/mbdt/)
 - 사용기술: Websquare, javascript, Spring
+- 세부내용: [클릭](./project/광주은행.md)
 - 작업내용
     - 금융상품 3종 (KJB 주거래통장, Y통장, 멀티통화외화예금)
     - 서비스 5종 (이체한도변경, 장기미사용해제, 광주은행 지점찾기, 번호표뽑기, 입출금알림서비스)
@@ -47,6 +50,7 @@
 - 기간: 2019.03~2019.05
 - 소개: 소프트베이스 사의 [xframe](http://www.xframe.co.kr/)을 인스웨이브의 websquare 파일로 전환하는 로직 구현
 - 사용기술: node.js, mongoDB, express, ES6
+- 세부내용: [클릭](./project/wcfraft.md)
 - 작업내용: 
     - xFrame 대한 전환룰(컴포넌트, script)을 작성
     - 기존 전환툴에 전환을 위한 Core 로직은 작성된 상황이라 큰 어려움은 없었음.
@@ -62,6 +66,7 @@
 - 기간: 2019.07~2019.01
 - 소개: xTouch 기술지원.
 - 참고: [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56)
+- 세부내용: [클릭](./project/workflow.md)
 - 작업내용:
     - 워크플로우 솔루션(xTouch) 커스터마이징 및 기능개선.
     - 프로세스 이어가기
@@ -133,7 +138,11 @@
 ### Server
 - JWT 인증을 사용하여 브라우저 쿠키에 저장하고 세션 처리를 할 수 있습니다
 
-
+### Tools
+- Jira
+- Slack
+- Confluence
+- VS Code
 
 ---------
 ## Interview
