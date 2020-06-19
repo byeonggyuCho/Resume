@@ -1,5 +1,11 @@
 # W-craft
 
+
+## TL;DR
+1. AST 분석
+2. 파입 입출력.
+
+
 ## intro
 UI flatform 마이그레이션 툴.
 
@@ -12,20 +18,29 @@ UI flatform 마이그레이션 툴.
 
 ### 환경설정
 ![](../resource/wcraft/1.png)
+1. 타겟 플렛폼 설정
+2. 타겟 폴더 설정
+3. 룰 셋팅.
 
 
 ### 분석단계
 ![](../resource/wcraft/2.png)
+1. 변환 파일 목록 생성.
+2. 매핑률 분석 (chart.js)
 
 ### 변환
 ![](../resource/wcraft/3.png)
-
+1. 레이아웃 변환
+2. 스크립트 변환
+3. 변환 파일 병합.
 
 ### 룰 입력
 ![](../resource/wcraft/4.png)
+1. 플랫폼별 룰 정보 추가 및 수정
 
 ### 룰 매핑 상태 확인.
 ![](../resource/wcraft/5.png)
+- 미 매핑 룰 확인.
 
 
 

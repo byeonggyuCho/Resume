@@ -1,7 +1,13 @@
 # Admin Application
 
-##  Skill Spec
+## TL;DR
+- 구글 OTP를 이용한 로그인처리
+- Oracle 쿼리 짜기
+- 화면 스크립트 로직 개발.
 
+
+
+##  Skill
 - Websquare
 - ES5 with Promise
 - Oracle
@@ -9,7 +15,6 @@
 - Google OTP를 활용한 로그인 서비스
 
 ## 개발후기
-
 - 그리드에 중점적인 Servcie로 상황별 이벤트처리를 꼼꼼히 하는것이 어려웠음.
 - Query를 짜는 연습을 많이함.
 - 첫 화면 개발 이후 하위 메뉴는 거의다 비슷한 grid구조이기 때문에 큰 어려움은 없었음.
