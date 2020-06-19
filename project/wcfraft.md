@@ -11,18 +11,18 @@ UI flatform 마이그레이션 툴.
 ## 상세화면
 
 ### 환경설정
-![](../resource\wcraft\1.png)
+![](../resource/wcraft/1.png)
 
 
 ### 분석단계
-![](../resource\wcraft\2.png)
+![](../resource/wcraft/2.png)
 
 ### 변환
-![](../resource\wcraft\3.png)
+![](../resource/wcraft/3.png)
 
 
 ### 룰 입력
-![](../resource\wcraft\4.png)
+![](../resource/wcraft/4.png)
 
 ### 룰 매핑 상태 확인.
-![](../resource\wcraft\5.png)
+![](../resource/wcraft/5.png)
