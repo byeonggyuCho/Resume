@@ -58,7 +58,7 @@
 ### 3.롯데손해보험 채권앱 어드민 개발
 - 기간: 2019.05~2019.06
 - 사용기술: OracleDB, spring, websquare
-- 상세보기: [클릭](../project/admin.md)
+- 상세보기: [클릭](./project/admin.md)
 - 작업내용:
     - WRM(WebSquare5 Reference Model, 웹스퀘어 프로젝트 표준 모델)을 기반으로 관리자 프로젝트 개발.
     - 구글OTP를 이용한 로그인 처리
