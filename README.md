@@ -2,7 +2,7 @@
 
     안녕하세요 프론트엔드 개발자 조병규입니다.
     사용자에게 직관적인 서비스를 협업하는 동료에게 가독성이 좋은 코드를 하는것을 핵심가치로 생각합니다.  
-    웹 서비스를 통해 일상의 편리함을 제공하는 일에 관심이 있습니다.  
+    웹을 통해 일상의 편리함을 제공하는 일에 관심이 있습니다.  
     최근에 컴포넌트 설계와 Typescript를 이용한 정적타입에 관심 있습니다.
 
 - 이름: 조병규
@@ -19,14 +19,14 @@
 
 
 ## Career
-### 1. [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
+### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
 - 소개: 웹표준 UI솔루션 기업
 - 기간: 2018.03~2020.05
 - 부서: 솔루션사업팀
 - 역할 
     1. 마이그레이션 솔루션 기능개선 및 관리([w-craft](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/craft.xml&product=ws&seq=19))
-    2. 워크플로우 솔루션 기능개선 및 관리.( [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56))
-    2. 신규 구축 프로젝트 투입.  
+    2. 워크플로우 솔루션 기능개선 및 관리.([xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56))
+    3. 신규 구축 프로젝트 투입.  
       
 
 
@@ -117,6 +117,14 @@
 - 상대방의 언어로 말하며 디자이너와 기획자와 원활한 커뮤니케이션을 할 수 있도록 노력합니다.
 
 
+
+### HTML/CSS
+- 시맨틱 웹을 지향합니다.  
+- BEM등의 clas 명명 규칙을 준수합니다.  
+- 반응형 웹을 구현할 수 있습니다.
+- bootstrap과 semantic UI를 사용해봤습니다.
+
+
 ### Javascript
 - ES6 이후의 문법에 익숙합니다.
 - prototype기반 개발을 깊이있게 이해하고 있습니다.
@@ -131,12 +139,13 @@
 ### React.
 - React hooks를 능숙하게 사용합니다.
 - 렌더링과 재사용성을 기준으로 컴포넌트를 분리합니다.
-- redux를 이용한 전역 상태관리와 관련 라이브러리 사용에 익숙합니다.
+- redux를 이용한 전역 상태관리와 관련 미들웨어 사용에 익숙합니다. (redux-saga,redux-thunk,connected-react-router)
 - 컴포넌트 라이프사이클을 이해하고 상황에 맞게 사용할 수 있습니다.
 - 상태관리 라이브러리를 이용할때, 서버에서 관리할 데이터와 클라이언트에서 관리할 데이터를 구분합니다.
 
 
 ### Server
+- Epress기반의 REST API를 작성할 수 있습니다.
 - JWT 인증을 사용하여 브라우저 쿠키에 저장하고 세션 처리를 할 수 있습니다
 
 ### Tools
@@ -145,7 +154,7 @@
 - Confluence
 - VS Code
 
----------
+---------------------------------------------------------------------------------------------------
 ## Interview
 
 
