@@ -145,10 +145,11 @@
 
 
 ### Server
-- Epress기반의 REST API를 작성할 수 있습니다.
+- Express에서 REST API를 작성할 수 있습니다.
 - JWT 인증을 사용하여 브라우저 쿠키에 저장하고 세션 처리를 할 수 있습니다
 
 ### Tools
+- Webpack (+Babel)
 - Jira
 - Slack
 - Confluence
