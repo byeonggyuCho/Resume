@@ -49,7 +49,7 @@ w-craft는 타사의 UI플랫폼을 웹스퀘어로 전환하는 마이그레이
 </w2:anchor>
 ```
 Button 컴포넌트의 각 속성을 websqare의 anchor 컴포넌트에 대응하는 속성으로 등록을 합니다.  
-![](../resource/wcraft/6.png)
+![](../resource/wcraft/6.png)  
 이런 식으로 변환 대상 플랫폼과 websquare의 컴포넌트를 비교해서 어떻게 변환할 것인지 분석한뒤 전환룰을 등록합니다.  
 
 제가 작업한 내용은 
