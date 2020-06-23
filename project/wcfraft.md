@@ -23,12 +23,28 @@ w-craft는 타사의 UI플랫폼을 웹스퀘어로 전환하는 마이그레이
 
 투비소프트사 mifratfrom
 ```xml
-<Button Id="btn_baddrow1"  Cursor="HAND" Width="22" Height="20" Left="25" Top="340" OnClick="tab_unit_tabcx_btn_baddrow1_OnClick" TabOrder="4"  Text="BTN_Addrow0" Transparent="TRUE" ></Button>
+<Button 
+    Id="btn_baddrow1"  
+    Cursor="HAND" 
+    Width="22" 
+    Height="20" 
+    Left="25" 
+    Top="340" 
+    OnClick="tab_unit_tabcx_btn_baddrow1_OnClick" 
+    TabOrder="4"  
+    Text="BTN_Addrow0" 
+    Transparent="TRUE" 
+    >
+</Button>
 ```
 
 인스웨이브사 Websquare
 ```xml
-<w2:anchor id="btn_baddrow1" style="cursor:hand; height:20px; position:absolute; left:26px; top:340px; width:22px;"  tabIndex="4"  ev:onclick="scwin.tab_unit_tabcx_btn_baddrow1_OnClick">
+<w2:anchor 
+    id="btn_baddrow1" 
+    style="cursor:hand; height:20px; position:absolute; left:26px; top:340px; width:22px;"  
+    tabIndex="4"  
+    ev:onclick="scwin.tab_unit_tabcx_btn_baddrow1_OnClick">
     <xf:label><![CDATA[BTN_Addrow0]]></xf:label>
 </w2:anchor>
 ```
