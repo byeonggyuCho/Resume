@@ -55,31 +55,31 @@ Button 컴포넌트의 각 속성을 websqare의 anchor 컴포넌트에 대응�
 
 ```json
 {
-			"src_platform": "miplatform",
-			"tar_platform": "websquare",
-			"src_type": "Button",
-			"tar_type": "anchor",
-			"tar_type_cd": "component:anchor",
-			"common_func": "basic.prefix_w2",
-			"project_func": "",
-			"attr": {
-				"id": {
-					"id": "basic.basicAttr"
-				},
-				"Align": {
-					"style": "basic.styleAttr"
-				},
-				"VAlign": {
-					"style": "basic.styleAttr"
-				},
-				"Appearance": {
-					"style": "basic.styleAttr"
-				}
-                ...
-				}
-			},
-			"add_attr": {}
-		},
+    "src_platform": "miplatform",
+    "tar_platform": "websquare",
+    "src_type": "Button",
+    "tar_type": "anchor",
+    "tar_type_cd": "component:anchor",
+    "common_func": "basic.prefix_w2",
+    "project_func": "",
+    "attr": {
+        "id": {
+            "id": "basic.basicAttr"
+        },
+        "Align": {
+            "style": "basic.styleAttr"
+        },
+        "VAlign": {
+            "style": "basic.styleAttr"
+        },
+        "Appearance": {
+            "style": "basic.styleAttr"
+        }
+        ...
+        }
+    },
+    "add_attr": {}
+},
 ```
 이런 식으로 각 컴포넌트의 태그 구조와 속성을 비교하여 전환 규칙을 작성해야합니다.  
 컴포넌트 전환룰 내부의 각 속성변환룰을 등록해야합니다.  
