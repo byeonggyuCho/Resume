@@ -8,14 +8,13 @@
 - 이름: 조병규
 - 나이: 30살(1991년생)
 - 학력: 대졸 (한국교통대학교, 기계공학)
+- 병역: 육군 만기제대
 - 거주지: 서울 동작구
 - e-mail: byeonggyu303@gmail.com
 - Skill
     - front: React(+Redux), Typescript, ES6
     - back: Node.js, Mysql, MongoDB
     - etc: git, jenkins
-
-
 
 
 ## Career
@@ -121,10 +120,11 @@
 
 
 ### HTML/CSS
-- 시맨틱 웹을 지향합니다.  
-- BEM등의 clas 명명 규칙을 준수합니다.  
+- Semantic Web을 지향합니다.  
+- BEM등의 class 명명 규칙을 준수합니다.  
 - 반응형 웹을 구현할 수 있습니다.
-- bootstrap과 semantic UI를 사용해봤습니다.
+- 미디어 쿼리를 이용한 멀티 브라우징을 구현할 수 있습니다.
+- CSS 프레임워크는 bootstrap과 semantic UI를 사용해봤습니다.
 
 
 ### Javascript
