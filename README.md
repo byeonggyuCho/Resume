@@ -1,9 +1,10 @@
 # About Me
 
     안녕하세요 프론트엔드 개발자 조병규입니다.
-    사용자에게 직관적인 서비스를 협업하는 동료에게 가독성이 좋은 코드를 하는것을 핵심가치로 생각합니다.  
+    사용자에게 직관적인 서비스, 동료에게 가독성이 좋은 코드를 제공하는 것을 중요하게 생각합니다.  
     웹을 통해 일상의 편리함을 제공하는 일에 관심이 있습니다.  
-    최근에 컴포넌트 최적화와 Typescript를 이용한 정적타입에 관심 있습니다.
+    주도적 개발환경과 오픈 커뮤니티를 지향하며 
+    React와 Typescript 그리고 작업물을 문서화하는 것을 종아합니다.
 
 - 이름: 조병규
 - 나이: 30살(1991년생)
@@ -22,6 +23,7 @@
 - 소개: 웹표준 UI솔루션 기업
 - 기간: 2018.03~2020.05
 - 부서: 솔루션사업팀
+- 소개: JavaScript 기반의 web framework, Websquare 솔루션기업.
 - 역할 
     1. 마이그레이션 솔루션 기능개선 및 관리([w-craft](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/craft.xml&product=ws&seq=19))
     2. 워크플로우 솔루션 기능개선 및 관리.([xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56))
