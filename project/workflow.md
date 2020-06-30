@@ -70,7 +70,7 @@ var nextStep = function nextStep(){
 		//3. 저장 요청 로직
 };
 ```
-제가 작업하기 전 기존 코드는 이렇게 하난의 함수에 여러가지 작업이 복잡하게 얽혀있었습니다.  
+제가 작업하기 전 기존 코드는 이렇게 하나의 함수에 여러가지 작업이 복잡하게 얽혀있었습니다.  
 이 함수를 각각의 한가지 역할을 수행하도록 나눴습니다.  
 이로써 각각의 함수를 테스르할 수 있고 `nextStep`의 함수가 하는 수행 동작을 쉽게 파악할 수 있게 되었습니다.(가독성.)
 ```js
@@ -83,12 +83,12 @@ var insertStepInfo = function(){} 	    //3. 저장 요청 로직
 var nextStep = function(data){
 	
 	try{
-			data = dataVertification(data);
-			data = dataFormatter(data);
+        data = dataVertification(data);
+        data = dataFormatter(data);
 			
-			insertStepInfo(data)
+        insertStepInfo(data)
 	}catch(e){
-		console.log(e)
+        console.log(e)
 	}
 
 }
@@ -121,7 +121,7 @@ if(state === "INIT"){
 }
 ```
 
-### 3. 함수 재활용성을 높히기 위한 환경 구성
+#### 3. 함수 재활용성을 높히기 위한 환경 구성
 
 기존의 코드는 하나의 메서드를 실행하면 4~5번의 서버 통신을 하는 함수가 많은데 
 각 콜백에 다른 함수를 직접 호출함으로써 결합도가 높은 코드였습니다.
@@ -272,7 +272,7 @@ app.start = function(param){
 
 ```
 
-### 4. 모듈패턴으로 private 멤버 관리 
+#### 4. 모듈패턴으로 private 멤버 관리 
 
 기존 코드는 하나의 객체에 속성과 메서드를 노출시켜 
 내부적으로 사용되는 속성과 메서드가 모두 노출되었습니다.  
