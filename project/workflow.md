@@ -83,12 +83,12 @@ var insertStepInfo = function(){} 	    //3. 저장 요청 로직
 var nextStep = function(data){
 	
 	try{
-        data = dataVertification(data);
-        data = dataFormatter(data);
+            data = dataVertification(data);
+            data = dataFormatter(data);
 			
-        insertStepInfo(data)
+            insertStepInfo(data)
 	}catch(e){
-        console.log(e)
+            console.log(e)
 	}
 
 }
@@ -151,9 +151,9 @@ function task( param, callback){
 	
 	var result;
 
-    if(typeof callback === 'function'){
-	    callback(result)
-    }
+	if(typeof callback === 'function'){
+		callback(result)
+	}
 }
 
 ```
@@ -257,7 +257,6 @@ app.start = function(param){
 		setSate	
 	];
 
-
 	taskRunner
 	.pipeLine(work,"startApplication")
 	.run(param);
@@ -323,12 +322,14 @@ var app = (function(){
 ## 상세화면
 
 ### 1.BPMN 프로세스(분기처리)
-![](../resource/workflow/1.png)
+![](../resource/workflow/1.png)  
 
 
 ### 2.컴포넌트에 화면정보 입력.
+
 - 화면경로 입력
-- 분기 컴포넌트인 경우 케이스별 이동경로 입력.
+- 분기 컴포넌트인 경우 케이스별 이동경로 입력.  
+
 ![](../resource/workflow/5.png)
 
 

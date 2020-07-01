@@ -4,6 +4,7 @@
 ## TL;DR
 1. [acorn](https://www.npmjs.com/package/acorn)패키지 Script AST 분석
 2. [xmldom](https://www.npmjs.com/package/xmldom)패키지를 이용한 구문분석
+3. chart.js를 이용한 데이터 시각화.
 
 
 ## intro
@@ -76,7 +77,6 @@ Button 컴포넌트의 각 속성을 websqare의 anchor 컴포넌트에 대응�
             "style": "basic.styleAttr"
         }
         ...
-        }
     },
     "add_attr": {}
 },
