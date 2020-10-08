@@ -15,7 +15,7 @@
 - Skill
   - front: React(+Redux), Typescript, ES6+, Scss
   - back: Node.js, Mysql, MongoDB
-  - etc: Git, Jenkins, Webpack, Babel
+  - etc: Git, Webpack, Babel, Jenkins
 
 ## Career
 
