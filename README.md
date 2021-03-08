@@ -14,10 +14,10 @@
 ✔ E-mail: byeonggyu303@gmail.com  
 
 
-⚙️ **Skill**
-💻 **Front**: React(+Redux), Typescript, ES6+, Scss
-⌨ **Back**: Node.js, Mysql, MongoDB
-🔗 **Etc**: Git, Webpack, Babel, Jenkin
+⚙️ **Skill**  
+💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
+⌨ **Back**: Node.js, Mysql, MongoDB  
+🔗 **Etc**: Git, Webpack, Babel, Jenkin  
 
 
 ## Career
