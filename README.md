@@ -124,7 +124,7 @@
 - `BEM`등의 css 방법론을 준수합니다.
 - 반응형 웹을 구현할 수 있습니다.
 - 미디어 쿼리를 이용한 멀티 브라우징을 구현할 수 있습니다.
-- CSS 프레임워크는 bootstrap과 **Material-UI**를 사용해봤습니다.
+- CSS 프레임워크는 Bootstrap과 **Material-UI**를 사용해봤습니다.
 
 ### Javascript
 
@@ -156,10 +156,10 @@
 ### Tools
 
 - Webpack (+Babel)
-- Jira
 - Slack
 - Notion
 - VS Code
+- Jira
 - Confluence
 
 ---
@@ -221,7 +221,7 @@ React는 간단히 소개하자면 인터렉티브한 웹과 앱을 만들기 �
 4. template문법없이 javascript만 잘 알면 접근 가능.
 5. Reactive Naitive를 이용한 앱 개발 가능
 
-### 6.Typescript를 사용함으로써 얻을 수 있는 장점은 무엇인가요
+### 6.Typescript를 사용함으로써 얻을 수 있는 장점은 무엇인가
 
 타입스크립트는 자바스크립트의 단점을 보완할 수 있는 선택적 도구입니다.
 타입스크립트를 도입하면 정적타입을 통한 안정성과 생산성, 추가적인 개발언어기능을 통해 강력한 객체지향적인 프로그래밍을 누릴 수 있습니다.
