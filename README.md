@@ -28,8 +28,8 @@
 - 기간: 20.07~21.03
 - 역할: 웹 프론트엔드 개발 리더
 - 작업:
-  1. 제품 개발 및 유지보수 ([관리자 웹](https://manager.albacheck.com/))
-  2. 메인 홈페이지 리뉴얼([메인](https://www.albacheck.co.kr/))
+  1. 제품 개발 및 유지보수 ([웹 매니저](https://manager.albacheck.com/))
+  2. 메인 홈페이지 리뉴얼([메인 홈페이지](https://www.albacheck.co.kr/))
 
 ### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
 
@@ -45,7 +45,7 @@
 
 ## Projects
 
-### 알바체크 관리자 웹
+### 알바체크 웹 매니저
 
 - 소개: 웹을 통한 비대면 매장관리 서비스
 - 소속: [알바체크](https://www.albacheck.co.kr/)
@@ -61,8 +61,8 @@
 
 ### KB증권 디지털 자산관리 플랫폼
 
-- 기간: 2019.07~2020.01
 - 소개: workFlow 솔루션의 기술지원 및 안정화
+- 기간: 2019.07~2020.01
 - 참고: [xTouch](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/xtouch.xml&product=ws&seq=56)
 - 세부내용: [클릭](./project/workflow.md)
 - 작업내용:
@@ -72,8 +72,8 @@
 
 ### 롯데손해보험 채권앱 어드민 개발
 
-- 기간: 2019.05~2019.06
 - 소개: 수행사에서 사용하는 template 프로젝트를 기반으로 어드민 개발
+- 기간: 2019.05~2019.06
 - 사용기술: OracleDB, spring, websquare
 - 상세보기: [클릭](./project/admin.md)
 - 작업내용:
@@ -82,8 +82,8 @@
 
 ### 마이그레이션 솔루션 플렛폼 추가 개발
 
-- 기간: 2019.03~2019.05
 - 소개: 소프트베이스 사의 [xframe](http://www.xframe.co.kr/)을 인스웨이브의 websquare 파일로 전환하는 로직 구현
+- 기간: 2019.03~2019.05
 - 사용기술: node.js, mongoDB, express, ES6
 - 세부내용: [클릭](./project/wcfraft.md)
 - 작업내용:
@@ -92,8 +92,8 @@
 
 ### 광주은행 모바일 웹
 
-- 기간: 2018.06~2018.12
 - 소개: REST API를 이용한 모바일 웹뱅킹 구축.
+- 기간: 2018.06~2018.12
 - 사용기술: Websquare, javascript, Spring
 - 세부내용: [클릭](./project/광주은행.md)
 - 뉴스: [광주은행 모바일웹뱅킹 구축](https://www.zdnet.co.kr/view/?no=20181107210051)
