@@ -22,7 +22,7 @@
 ### [알바체크](https://www.albacheck.co.kr/)
 
 - 소개: 비대면 업무관리 서비스 기업
-- 기간: 2020.07~
+- 기간: 20.07~21.03
 - 역할: react기반 웹 프론트엔드
 - 작업:
   1. 제품 개발 및 유지보수 ([관리자 웹](https://manager.albacheck.com/))
@@ -31,7 +31,7 @@
 ### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
 
 - 소개: JavaScript 기반의 web framework, Websquare 솔루션 기업.
-- 기간: 2018.03~2020.05
+- 기간: 18.03~20.05
 - 부서: 솔루션사업팀
 - 작업:
   1. 마이그레이션 솔루션 기능개선 및 관리([w-craft](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/craft.xml&product=ws&seq=19))
