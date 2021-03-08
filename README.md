@@ -6,7 +6,7 @@
     React와 Typescript 그리고 개발을 통한 변화를 수치화하는 것을 좋아합니다.
 
 - 이름: 조병규
-- 나이: 30살 (1991~)
+- 생년월일: 1991.08.26
 - 직군: 웹 프론트엔드
 - 학력: 대졸 (한국교통대학교, 기계공학)
 - 병역: 육군 만기제대(11.09 ~ 13.06)
@@ -26,7 +26,7 @@
 - 역할: react기반 웹 프론트엔드
 - 작업:
   1. 제품 개발 및 유지보수 ([관리자 웹](https://manager.albacheck.com/))
-  2. 사내 [매출 관리 및 통계 시스템]() 구축
+  2. 메인 홈페이지 리뉴얼([메인](https://www.albacheck.co.kr/))
 
 ### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
 
