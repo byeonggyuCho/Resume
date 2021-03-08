@@ -46,7 +46,7 @@
 
 - 소개: 웹을 통한 비대면 매장관리 서비스
 - 소속: [알바체크](https://www.albacheck.co.kr/)
-- 기간: 2020.07 ~ 현재
+- 기간: 20.07 ~ 21.03
 - 사용기술: `React`, `Typescript`, Redux, redux-saga, scss, Webpack, `Jest`, React-testing-library
 - 작업 범위: react환경 셋팅, 퍼블리싱, 비지니스 로직 개발
 - 작업 내용
