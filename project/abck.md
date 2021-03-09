@@ -60,25 +60,51 @@
 ### ▶결제
 
 ![](../resource/abck/abck-payment.png)
+
+<br/>
 ![](../resource/abck/abck-payment2.png)
+
+
+<br/>
 ![](../resource/abck/abck-payment3.png)
+
+
+<br/>
 ![](../resource/abck/abck-payment4.png)
+
+
+<br/>
 ![](../resource/abck/abck-payment5.png)
+
+
+<br/>
 ![](../resource/abck/abck-payment6.png)
 
+
+<br/><br/>
 ### ▶모바일결제
 
 ![](../resource/abck/aback-mobiil-payment1.png)  
+
+<br/>
 ![](../resource/abck/aback-mobiil-payment2.png)  
+
+<br/>
 ![](../resource/abck/aback-mobiil-payment3.png)  
+
+<br/>
 ![](../resource/abck/aback-mobiil-payment4.png)  
 
 
-
+<br/>
 ### ▶통계 시각화
 
 ![](../resource/abck/aback-chart1.png)  
+
+<br/>
 ![](../resource/abck/aback-chart2.png)  
+
+<br/>
 ![](../resource/abck/aback-chart3.png)  
 
 
