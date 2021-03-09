@@ -59,7 +59,7 @@
 
 ## 프로젝트 화면
 
-<br/>
+
 ### ▶결제  
 
 ![](../resource/abck/abck-payment.png)  
