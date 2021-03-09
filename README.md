@@ -94,7 +94,7 @@
 - 소개: REST API를 이용한 모바일 웹뱅킹 구축.
 - 기간: 2018.06~2018.12
 - 사용기술: Websquare, javascript, Spring
-- 세부내용: [🔍보기]](./project/광주은행.md)
+- 세부내용: [🔍보기](./project/광주은행.md)
 - 뉴스: [광주은행 모바일웹뱅킹 구축](https://www.zdnet.co.kr/view/?no=20181107210051)
 - 참고: [광주은행 모바일웹](https://m.kjbank.com/mbdt/)
 - 작업내용
