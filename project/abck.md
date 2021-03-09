@@ -99,7 +99,7 @@
 ![](../resource/abck/aback-mobiil-payment4.png)  
 
 ---
-<br/>
+<br/>  
 ### ▶통계 시각화
 
 ![](../resource/abck/aback-chart1.png)  
