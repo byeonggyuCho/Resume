@@ -19,39 +19,31 @@
 
 ## 주요 라이브러리
 
-<img src="../resource/logo/logo-react.png" alt="react" width="50" height="50"/>
-<img src="../resource/logo/logo-Redux.png" alt="Redux" width="50" height="50"/>
+### 통신모듈: [Aaxios](https://www.npmjs.com/package/axios)
+
 <img src="../resource/logo/logo-axios.png" alt="axios" width="50" height="50"/>
+
+### 정적 타입: [Typescript](https://www.npmjs.com/package/typescript)
+
 <img src="../resource/logo/logo-typescript.png" alt="typescript" width="50" height="50"/>
-<img src="../resource/logo/logo-react-hook-form.png" alt="logo-react-hook-form" width="50" height="50"/>
-<img src="../resource/logo/logo-redux-saga.png" alt="drawing" width="50" height="50"/>
+
+### Styling: [styled-components](https://www.npmjs.com/package/styled-components)
+
 <img src="../resource/logo/logo-styled-components.png" alt="drawing" width="50" height="50"/>
 
-### 통신모듈
+### Form 유효성 검증: [react-hook-form](https://www.npmjs.com/package/react-hook-form)
 
-- [axios](https://www.npmjs.com/package/axios)
+<img src="../resource/logo/logo-react-hook-form.png" alt="logo-react-hook-form" width="50" height="50"/>
 
-### 정적 타입
+### 상태관리 라이브러리: [Redux](https://www.npmjs.com/package/redux)
 
-- [typescript](https://www.npmjs.com/package/typescript)
+<img src="../resource/logo/logo-Redux.png" alt="Redux" width="50" height="50"/>
 
-### Styling
-
-- [styled-components](https://www.npmjs.com/package/styled-components)
-
-### Form 유효성 검증
-
-- [react-hook-form](https://www.npmjs.com/package/react-hook-form)
-
-### Grid
-
-- [@toast-ui/react-grid](https://www.npmjs.com/package/@toast-ui/react-grid)
-
-### 상태관리 라이브러리
-
-- [redux](https://www.npmjs.com/package/redux)
+### Grid: [@toast-ui/react-grid](https://www.npmjs.com/package/@toast-ui/react-grid)
 
 ### Redux 관련 라이브러리
+
+<img src="../resource/logo/logo-redux-saga.png" alt="drawing" width="50" height="50"/>
 
 - [typesafe-actions](https://www.npmjs.com/search?q=typesafe-actions)
 - [redux-persist](https://www.npmjs.com/package/redux-persist)
