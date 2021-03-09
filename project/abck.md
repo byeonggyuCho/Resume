@@ -8,14 +8,14 @@
 ✔ 스킬: React, Typescript, redux, redux-saga  
 ✔ 기여한 내용:
 
-▶ 웹 어플리케이션 설계 및 배포  
-▶ Payple 결제모듈 연동  
-▶ Typescipt 도입으로 프로젝트 안정화 및 생산성 상승  
-▶ recharts를 이용한 통계 시각화  
-▶ 프론트엔드 신입 면접질문 개선  
-▶ 프론트엔드 단위테스트 가이드 제공  
-▶ Webpack Dev server를 이용한 proxy, mock api환경 제공
-▶ 메인 홈페이지 리뉴얼
+◾ 웹 어플리케이션 설계 및 배포  
+◾ Payple 결제모듈 연동  
+◾ Typescipt 도입으로 프로젝트 안정화 및 생산성 상승  
+◾ recharts를 이용한 통계 시각화  
+◾ 프론트엔드 신입 면접질문 개선  
+◾ 프론트엔드 단위테스트 가이드 제공  
+◾ Webpack Dev server를 이용한 proxy, mock api환경 제공
+◾ 메인 홈페이지 리뉴얼
 
 ## 주요 라이브러리
 
@@ -57,7 +57,7 @@
 
 ## 프로젝트 화면
 
-### 결제
+### ▶결제
 
 ![](../resource/abck/abck-payment.png)
 ![](../resource/abck/abck-payment2.png)
@@ -66,20 +66,24 @@
 ![](../resource/abck/abck-payment5.png)
 ![](../resource/abck/abck-payment6.png)
 
-### 모바일결제
+### ▶모바일결제
 
-![](../resource/abck/aback-mobiil-payment1.png)
-![](../resource/abck/aback-mobiil-payment2.png)
-![](../resource/abck/aback-mobiil-payment3.png)
-![](../resource/abck/aback-mobiil-payment4.png)
+![](../resource/abck/aback-mobiil-payment1.png)  
+![](../resource/abck/aback-mobiil-payment2.png)  
+![](../resource/abck/aback-mobiil-payment3.png)  
+![](../resource/abck/aback-mobiil-payment4.png)  
 
-### 통계 시각화
 
-![](../resource/abck/aback-chart1.png)
-![](../resource/abck/aback-chart2.png)
-![](../resource/abck/aback-chart3.png)
 
-### 업무등록
+### ▶통계 시각화
+
+![](../resource/abck/aback-chart1.png)  
+![](../resource/abck/aback-chart2.png)  
+![](../resource/abck/aback-chart3.png)  
+
+
+
+### ▶업무등록
 
 ![](../resource/abck/abck-checklist1.png)
 ![](../resource/abck/abck-checklist2.png)
