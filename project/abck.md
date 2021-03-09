@@ -57,27 +57,27 @@
 
 ## 프로젝트 화면
 
-### ▶결제
+### ▶결제  
 
 ![](../resource/abck/abck-payment.png)  
 
-<br/>
+
 ![](../resource/abck/abck-payment2.png)  
 
 
-<br/>
+
 ![](../resource/abck/abck-payment3.png)  
 
 
-<br/>
+
 ![](../resource/abck/abck-payment4.png)  
 
 
-<br/>
+
 ![](../resource/abck/abck-payment5.png)  
 
 
-<br/>
+
 ![](../resource/abck/abck-payment6.png)  
 
 
@@ -86,32 +86,30 @@
 
 ![](../resource/abck/aback-mobiil-payment1.png)  
 
-<br/>
 ![](../resource/abck/aback-mobiil-payment2.png)  
 
-<br/>
+
 ![](../resource/abck/aback-mobiil-payment3.png)  
 
-<br/>
+
 ![](../resource/abck/aback-mobiil-payment4.png)  
 
 
-<br/>
 ### ▶통계 시각화
 
 ![](../resource/abck/aback-chart1.png)  
 
-<br/>
+
 ![](../resource/abck/aback-chart2.png)  
 
-<br/>
+
 ![](../resource/abck/aback-chart3.png)  
 
 
 
 ### ▶업무등록
 
-![](../resource/abck/abck-checklist1.png)
-![](../resource/abck/abck-checklist2.png)
-![](../resource/abck/abck-checklist3.png)
-![](../resource/abck/abck-checklist4.png)
+![](../resource/abck/abck-checklist1.png)  
+![](../resource/abck/abck-checklist2.png)  
+![](../resource/abck/abck-checklist3.png)  
+![](../resource/abck/abck-checklist4.png)  
