@@ -53,7 +53,9 @@
 
 ### Chart
 
-- [recharts](https://www.npmjs.com/package/recharts)
+- [recharts](https://www.npmjs.com/package/recharts)  
+
+<br/><br/>
 
 ## 프로젝트 화면
 
@@ -81,7 +83,7 @@
 ![](../resource/abck/abck-payment6.png)  
 
 
-===
+---
 <br/><br/>
 ### ▶모바일결제
 
@@ -95,7 +97,7 @@
 
 ![](../resource/abck/aback-mobiil-payment4.png)  
 
-===
+---
 ### ▶통계 시각화
 
 ![](../resource/abck/aback-chart1.png)  
@@ -108,7 +110,7 @@
 
 
 
-===
+---
 ### ▶업무등록
 
 ![](../resource/abck/abck-checklist1.png)  
@@ -116,4 +118,4 @@
 ![](../resource/abck/abck-checklist3.png)  
 ![](../resource/abck/abck-checklist4.png)  
 
-===
+---
