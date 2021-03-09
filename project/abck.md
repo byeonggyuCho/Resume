@@ -59,26 +59,26 @@
 
 ### ▶결제
 
-![](../resource/abck/abck-payment.png)
+![](../resource/abck/abck-payment.png)  
 
 <br/>
-![](../resource/abck/abck-payment2.png)
-
-
-<br/>
-![](../resource/abck/abck-payment3.png)
+![](../resource/abck/abck-payment2.png)  
 
 
 <br/>
-![](../resource/abck/abck-payment4.png)
+![](../resource/abck/abck-payment3.png)  
 
 
 <br/>
-![](../resource/abck/abck-payment5.png)
+![](../resource/abck/abck-payment4.png)  
 
 
 <br/>
-![](../resource/abck/abck-payment6.png)
+![](../resource/abck/abck-payment5.png)  
+
+
+<br/>
+![](../resource/abck/abck-payment6.png)  
 
 
 <br/><br/>
