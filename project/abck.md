@@ -14,7 +14,7 @@
 ◾ recharts를 이용한 통계 시각화  
 ◾ 프론트엔드 신입 면접질문 개선  
 ◾ 프론트엔드 단위테스트 가이드 제공  
-◾ Webpack Dev server를 이용한 proxy, mock api환경 제공
+◾ Webpack Dev server를 이용한 proxy, mock api환경 제공  
 ◾ 메인 홈페이지 리뉴얼
 
 ## 주요 라이브러리
