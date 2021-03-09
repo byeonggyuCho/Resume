@@ -85,7 +85,7 @@
 
 
 ---
-<br/><br/>
+
 ### ▶모바일결제
 
 ![](../resource/abck/aback-mobiil-payment1.png)  
@@ -99,7 +99,7 @@
 ![](../resource/abck/aback-mobiil-payment4.png)  
 
 ---
-<br/>  
+
 ### ▶통계 시각화
 
 ![](../resource/abck/aback-chart1.png)  
@@ -113,7 +113,7 @@
 
 
 ---
-<br/>
+
 ### ▶업무등록
 
 ![](../resource/abck/abck-checklist1.png)  
