@@ -12,6 +12,7 @@
 ◾ Payple 결제모듈 연동  
 ◾ Typescipt 도입으로 프로젝트 안정화 및 생산성 상승  
 ◾ recharts를 이용한 통계 시각화  
+◾ 모바일 웹 결제 오픈  
 ◾ 프론트엔드 신입 면접질문 개선  
 ◾ 프론트엔드 단위테스트 가이드 제공  
 ◾ Webpack Dev server를 이용한 proxy, mock api환경 제공  
