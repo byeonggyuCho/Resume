@@ -17,7 +17,7 @@
 ◾ Webpack Dev server를 이용한 proxy, mock api환경 제공  
 ◾ 메인 홈페이지 리뉴얼
 
-## 주요 라이브러리
+## 📌주요 라이브러리
 
 ### 통신모듈: [Axios](https://www.npmjs.com/package/axios)
 
@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-## 프로젝트 화면
+## 📌프로젝트 화면
 
 
 ### ▶결제  
