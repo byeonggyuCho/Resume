@@ -120,7 +120,7 @@
 ![](../resource/abck/aback-chart2.png)  
 
 
-####💬 3.3 브랜드 일간 통계
+#### 💬 3.3 브랜드 일간 통계
 ![](../resource/abck/aback-chart3.png)  
 
 
