@@ -73,7 +73,7 @@
 
 - 소개: 수행사에서 사용하는 template 프로젝트를 기반으로 어드민 개발
 - 기간: 2019.05~2019.06
-- 사용기술: OracleDB, spring, websquare
+- 사용기술: OracleDB, Spring, Websquare
 - 상세보기: [🔍보기](./project/admin.md)
 - 작업내용:
   - WRM(WebSquare5 Reference Model, 웹스퀘어 프로젝트 표준 모델)을 기반으로 관리자 프로젝트 개발.
@@ -83,7 +83,7 @@
 
 - 소개: 소프트베이스 사의 [xframe](http://www.xframe.co.kr/)을 인스웨이브의 websquare 파일로 전환하는 로직 구현
 - 기간: 2019.03~2019.05
-- 사용기술: node.js, mongoDB, express, ES6
+- 사용기술: Node.js, MongoDB, Express, ES6
 - 세부내용: [🔍보기](./project/wcfraft.md)
 - 작업내용:
   - xFrame 대한 전환룰(컴포넌트, script)을 작성
@@ -100,7 +100,7 @@
 - 작업내용
   - 금융상품 3종 (KJB 주거래통장, Y통장, 멀티통화외화예금)
   - 서비스 5종 (이체한도변경, 장기미사용해제, 광주은행 지점찾기, 번호표뽑기, 입출금 알림서비스)
-  - 다음 map API를 이용한 은행지점 찾기 서비스
+  - **Daum map API**를 이용한 은행지점 찾기 서비스
 
 ---
 

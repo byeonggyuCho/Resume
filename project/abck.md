@@ -17,7 +17,11 @@
 ◾ 프론트엔드 단위테스트 가이드 제공  
 ◾ Webpack Dev server를 이용한 proxy, mock api환경 제공  
 ◾ 메인 홈페이지 리뉴얼  
-◾ Jest를 이용한 redux 모듈 단위테스트  
+◾ Jest를 이용한 redux 모듈 단위테스트
+
+## 📌FAQ
+
+[🔍보기](./abck-FAQ.md)
 
 ## 📌주요 라이브러리
 
@@ -55,90 +59,92 @@
 
 ### Chart
 
-- [recharts](https://www.npmjs.com/package/recharts)  
+- [recharts](https://www.npmjs.com/package/recharts)
 
 <br/><br/>
 
 ## 📌프로젝트 화면
 
-
-### 🔸1.결제  
+### 🔸1.결제
 
 #### 💬 1.1 결제 플랜
-![](../resource/abck/abck-payment.png)  
+
+![](../resource/abck/abck-payment.png)
 
 #### 💬 1.2 결제 화면
-![](../resource/abck/abck-payment2.png)  
 
+![](../resource/abck/abck-payment2.png)
 
 #### 💬 1.3 결제 카드 등록
-![](../resource/abck/abck-payment3.png)  
 
+![](../resource/abck/abck-payment3.png)
 
 #### 💬 1.4 페이플 카드등록 팝업
-![](../resource/abck/abck-payment4.png)  
 
+![](../resource/abck/abck-payment4.png)
 
 #### 💬 1.5 결제 정보 상세 페이지
-![](../resource/abck/abck-payment5.png)  
 
+![](../resource/abck/abck-payment5.png)
 
 #### 💬 1.6 결제 취소 팝업
-![](../resource/abck/abck-payment6.png)  
 
+![](../resource/abck/abck-payment6.png)
 
 ---
 
-###  🔸2.모바일결제
-
+### 🔸2.모바일결제
 
 #### 💬 2.1 모바일 로그인
 
-![](../resource/abck/aback-mobiil-payment1.png)  
+![](../resource/abck/aback-mobiil-payment1.png)
 
 #### 💬 2.2 결제 매장선택
-![](../resource/abck/aback-mobiil-payment2.png)  
 
+![](../resource/abck/aback-mobiil-payment2.png)
 
 #### 💬 2.3 결제 페이지
-![](../resource/abck/aback-mobiil-payment3.png)  
 
-
+![](../resource/abck/aback-mobiil-payment3.png)
 
 #### 💬 2.4 결제 실패 케이스
-![](../resource/abck/aback-mobiil-payment4.png)  
+
+![](../resource/abck/aback-mobiil-payment4.png)
 
 ---
 
 ### 🔸3.통계 시각화
 
-
 #### 💬 3.1 브랜드 주간 통계
-![](../resource/abck/aback-chart1.png)  
 
-#### 💬 3.2  가맹점 통계
-![](../resource/abck/aback-chart2.png)  
+![](../resource/abck/aback-chart1.png)
 
+#### 💬 3.2 가맹점 통계
+
+![](../resource/abck/aback-chart2.png)
 
 #### 💬 3.3 브랜드 일간 통계
-![](../resource/abck/aback-chart3.png)  
 
-
+![](../resource/abck/aback-chart3.png)
 
 ---
 
 ### 🔸4.업무등록
 
-####  💬 4.1 업무 불러오기
-![](../resource/abck/abck-checklist1.png)  
+#### 💬 4.1 업무 불러오기
+
+![](../resource/abck/abck-checklist1.png)
 
 #### 💬 4.2 업무 추가
-![](../resource/abck/abck-checklist2.png)  
+
+![](../resource/abck/abck-checklist2.png)
 
 #### 💬 4.3 업무 순서 변경
-![](../resource/abck/abck-checklist3.png)  
+
+![](../resource/abck/abck-checklist3.png)
 
 #### 💬 4.4 뒤로가기 방지
-![](../resource/abck/abck-checklist4.png)  
+
+![](../resource/abck/abck-checklist4.png)
 
 ---
