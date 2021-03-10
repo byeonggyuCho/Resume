@@ -26,7 +26,7 @@
 - 기간: 20.07~21.03
 - 역할: 웹 프론트엔드 개발 리더
 - 작업:
-  1. 제품 개발 및 유지보수 ([웹 매니저](https://manager.albacheck.com/))
+  1. 제품 개발 및 유지보수 ([CEO 웹](https://manager.albacheck.com/))
   2. 메인 홈페이지 리뉴얼([메인 홈페이지](https://www.albacheck.co.kr/))
 
 ### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
@@ -43,7 +43,7 @@
 
 ## 📌Projects
 
-### 알바체크 웹 매니저
+### 알바체크 CEO 웹
 
 - 소개: 웹을 통한 비대면 매장관리 서비스
 - 소속: [알바체크](https://www.albacheck.co.kr/)
