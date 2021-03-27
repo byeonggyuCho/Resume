@@ -3,7 +3,7 @@
 ![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
 ![status](https://img.shields.io/badge/status-Employed-inactive)  
 [![linkedIn](./resource/image/linkedin.svg)](https://www.linkedin.com/in/byeonggyu-cho303/)
-[![linkedIn](./resource/image/gmail.svg)](byeonggyu303@gmail.com)
+[![Gmail](./resource/image/gmail.svg)](mailto:byeonggyu303@gmail.com)
 
 <p align="center" >
     <img src="./resource/image/profile.png" width="300" height="auto" >
