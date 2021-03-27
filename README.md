@@ -1,9 +1,9 @@
 # 프론트엔드 개발자 조병규입니다. 👋
 
 ![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
-![status](https://img.shields.io/badge/status-OpenToWork-inactive)
-
-
+![status](https://img.shields.io/badge/status-Employed-inactive)  
+[![linkedIn](./resource/image/linkedin.svg)](https://www.linkedin.com/in/byeonggyu-cho303/)
+[![linkedIn](./resource/image/gmail.svg)](byeonggyu303@gmail.com)
 
 <p align="center" >
     <img src="./resource/image/profile.png" width="300" height="auto" >
@@ -23,14 +23,9 @@
 ⌨ **Back**: Node.js, Mysql, MongoDB  
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
 
-
-
-
     비지니스를 위한 개발과 관리비용을 최소화할 수 있는 제품을 기업에 제공하는 것을 개발자의 핵심가치로 생각합니다.
     유연한 근무환경과 오픈 커뮤니케이션을 지향하며
     React와 Typescript 그리고 개발을 통한 변화를 수치화하는 것을 좋아합니다.
-
-
 
 ## 📌Career
 
