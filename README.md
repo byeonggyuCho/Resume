@@ -1,3 +1,5 @@
+![background](./resource/image/resume_background.jpeg)
+
 # 프론트엔드 개발자 조병규입니다. 👋
 
 ![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
@@ -5,12 +7,12 @@
 [![linkedIn](./resource/image/linkedin.svg)](https://www.linkedin.com/in/byeonggyu-cho303/)
 [![Gmail](./resource/image/gmail.svg)](mailto:byeonggyu303@gmail.com)
 
-<div align="center" >
+<p align="center" >
     <img 
       src="./resource/image/profile.png" 
       style="width:300px; height:300px;"
     />
-</div>
+</p>
 
 ✔ 이름: 조병규  
 ✔ 생년: 1991  
