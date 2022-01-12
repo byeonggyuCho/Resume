@@ -1,4 +1,4 @@
-![background](./resource/image/resume_background.jpeg)
+![background](./resource/image/front-end-stack.png)
 
 # 프론트엔드 개발자 조병규입니다. 👋
 
