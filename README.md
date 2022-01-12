@@ -31,12 +31,12 @@
 
 ## 📌 목차
 
-- [1️⃣ Career](#--career)
-- [2️⃣ Projects](#--projects)
-- [3️⃣ Skill](#--skill)
-- [4️⃣ FAQ](#---faq)
+- [Career](#--career)
+- [Projects](#--projects)
+- [Skill](#--skill)
+- [FAQ](#--faq)
 
-## 1️⃣Career
+## Career
 
 ### [스페이스워크](https://www.albacheck.co.kr/)
 
@@ -126,7 +126,7 @@
 
 ---
 
-## 3️⃣Skill
+## Skill
 
 ### Overall
 
@@ -187,7 +187,7 @@
 
 ---
 
-## 4️⃣FAQ
+## FAQ
 
 ### 1.프론트엔드는 어떤 역할이라 생각하는지?
 
