@@ -84,6 +84,7 @@
 - 링크: https://www.landbook.net
 - 기간: 21.04~현재
 - 사용기술: `React`, `Typescript`, redux, redux-toolkit, styled-component, react-query, Jest
+- 상세보기: [🔍보기](./project/landbook.md)
 - 작업내용:
   - 웹 결제, 인앱결제(IAP) 연동
   - [랜드북 3.0](https://www.landbook.net)
