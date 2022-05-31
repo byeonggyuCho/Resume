@@ -25,7 +25,7 @@
 
 ⚙️ **Skill**  
 💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
-⌨ **Back**: Node.js, Mysql, MongoDB  
+⌨ **Back**: Node.js, Mysql, Java  
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
 
     비지니스를 위한 개발과 관리비용을 최소화할 수 있는 제품을 기업에 제공하는 것을 핵심가치로 생각합니다.
@@ -36,7 +36,7 @@
 - [Career](#career)
 - [Projects](#projects)
 - [Skill](#skill)
-- [Core value](#Core-value)
+- [Core Value](#Core-value)
   - [1.프론트엔드는 어떤 역할이라 생각하는지?](#1프론트엔드는-어떤-역할이라-생각하는지)
   - [2.업무에서 중요하게 생각하는 것이 있다면?](#2업무에서-중요하게-생각하는-것이-있다면)
   - [3.기술 선정에서 중요하게 생각하는 것은?](#3기술-선정에서-중요하게-생각하는-것은)
@@ -52,6 +52,10 @@
 
 - 소개: 인공지능 기반으로 토지가치를 분석해주는 건축설계 자동화 서비스를 제공하는 프롭테크 기업
 - 기간: 21.04~현재
+- 작업:
+  1. [랜드북 3.0](https://www.landbook.net/home)
+  2. 웹 결제 ([아임포트](https://www.iamport.kr/))
+  3. 인앱결제 ([revenueCat](https://www.revenuecat.com/))
 
 ### [하이어엑스](https://www.albacheck.co.kr/)
 
@@ -79,7 +83,10 @@
 - 소개: 조건에 맞는 토지를 찾아주는 매물 서비스와 사업성을 예측하는 분석 서비스
 - 링크: https://www.landbook.net
 - 기간: 21.04~현재
-- 사용기술: `React`, `Typescript`, redux, redux-toolkit, styled-component, react-query
+- 사용기술: `React`, `Typescript`, redux, redux-toolkit, styled-component, react-query, Jest
+- 작업내용:
+  - 웹 결제, 인앱결제(IAP) 연동
+  - [랜드북 3.0](https://www.landbook.net)
 
 ### 하이어엑스 CEO WEB
 
