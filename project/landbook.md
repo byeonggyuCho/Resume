@@ -10,13 +10,13 @@
 
 ## 인앱결제
 
-![IAP_IOS](../resource/landbook/payment_ios.gif)
+<img src="../resource/landbook/payment_ios.gif" width="400" alt="ios_인앱결제"/>
 
 ## 무료쿠폰 결제
 
 - 이벤트를 위한 무료쿠폰을 이용한 결제요청
 
-![IAP_IOS](../resource/landbook/payment_coupon.gif)
+<img src="../resource/landbook/payment_coupon.gif" width="400" alt="쿠폰결제"/>
 
 ## [Component] TabBar
 
@@ -26,8 +26,8 @@
 
 ![tab](../resource/landbook/comp_tab.gif)
 
-```tsx
-<TabProvider value={{ selectedKey: tabKey }}>
+```ts
+<TabProvider value={value}>
   <TabList onChange={handleChange}>
     <Tab tabKey={TAB_ITEMS.BANANA} label="바나나" />
     <Tab tabKey={TAB_ITEMS.APPLE} label="사과" />
@@ -39,7 +39,7 @@
 
 ## [Compnent] Button Tab
 
-```tsx
+```ts
 <Tabs theme="button" value={activeButtonId} onChange={handleChange}>
   {items.map((item) => (
     <Tab {...item} key={item.tabKey} />
