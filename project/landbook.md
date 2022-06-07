@@ -1,5 +1,13 @@
 # 작업 내용
 
+## 주소검색
+
+![주소검색](../resource/landbook/주소검색.gif)
+
+- kakao 주소검새 API연동
+- 검색 자동완성 (debounce)
+- 최근 검색
+
 ## Home Banner
 
 ![홈_배너](../resource/landbook/home_banner.gif)
@@ -46,6 +54,14 @@
   ))}
 </Tabs>
 ```
+
+![tab](../resource/landbook/tabButton.gif)
+
+## BottomSheet
+
+- 모바일 바텀시트
+
+![tab](../resource/landbook/BottomSheet.gif)
 
 ## 조감도 평면도 랜더링 package 분리
 
