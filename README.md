@@ -86,8 +86,13 @@
 - 사용기술: `React`, `Typescript`, redux, redux-toolkit, styled-component, react-query, Jest
 - 상세보기: [🔍보기](./project/landbook.md)
 - 작업내용:
-  - 웹 결제, 인앱결제(IAP) 연동
   - [랜드북 3.0](https://www.landbook.net)
+  - 컴포넌트 개발(Tooltip, Tab, BottomSheet, Swiper)
+  - 서비스 기능개발
+    - 웹 결제(naver-pay)
+    - 인앱결제(IAP) 연동
+    - kakao API를 이용한 주소검색
+    - 홈 배너
 
 ### 하이어엑스 CEO WEB
 
