@@ -48,7 +48,7 @@
 
 ## Career
 
-### [스페이스워크](https://www.albacheck.co.kr/)
+### [스페이스워크](https://spacewalk.tech/)
 
 - 소개: 인공지능 기반으로 토지가치를 분석해주는 건축설계 자동화 서비스를 제공하는 프롭테크 기업
 - 기간: 21.04~현재
@@ -57,13 +57,13 @@
   2. 웹 결제 ([아임포트](https://www.iamport.kr/))
   3. 인앱결제 ([revenueCat](https://www.revenuecat.com/))
 
-### [하이어엑스](https://www.albacheck.co.kr/)
+### [하이어엑스](https://www.wkdk.kr/)
 
 - 소개: 비대면 업무관리 서비스 기업
 - 기간: 20.07~21.03
 - 작업:
   1. 제품 개발 및 유지보수 ([CEO 웹](https://manager.albacheck.com/))
-  2. 메인 홈페이지 리뉴얼([메인 홈페이지](https://www.albacheck.co.kr/))
+  2. 메인 홈페이지 리뉴얼([메인 홈페이지](https://www.wkdk.kr/))
 
 ### [인스웨이브시스템즈](https://www.inswave.com/websquare/websquare.html?w2xPath=/index.xml)
 
@@ -78,7 +78,7 @@
 
 ## Projects
 
-### Landbook
+### [Landbook](https://www.landbook.net)
 
 - 소개: 조건에 맞는 토지를 찾아주는 매물 서비스와 사업성을 예측하는 분석 서비스
 - 링크: https://www.landbook.net
